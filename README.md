@@ -1,2 +1,2 @@
 # cv
-zivotopis
+https://silviebart.github.io/Cv/
